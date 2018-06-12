@@ -1,0 +1,96 @@
+*{margin: 0;padding: 0;box-sizing: border-box; font-family: 'Franklin Gothic Medium',sans-serif;}
+ul{list-style-type: none;}
+a{text-decoration: none;}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+/* ========================================================= */
+
+
+/* Class exercise START */
+
+/* .container .header{
+    width: 80%;
+    height: 60px;
+    margin: 0 auto;
+    margin-top: 70px;
+    border: 1px solid black;
+    background: brown;
+    box-shadow: 0px 0px 100px 10px brown;
+    
+}
+.container .upper{
+    width: 47.5%;
+    height: 650px;
+    float: left;
+    margin-top: 70px;
+    border: 1px solid black;
+    background: url('image/1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0px 0px 100px 10px rgb(117, 145, 42);
+    
+}
+.container .right{
+    background: url('image/2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0px 0px 100px 10px rgb(143, 118, 49);
+}
+.container .left{
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+}
+.container .right{
+    margin-right: 0%;
+}
+.container .down{
+    width: 30%;
+    height: 450px;
+    margin-right: 2%;
+    float: left;
+    margin-top: 30px;
+    border: 1px solid black;
+    display: none;
+    margin-bottom: 50px;
+    background: url('image/4.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0px 0px 100px 10px rgb(158, 18, 18);
+}
+.container .first{
+    margin-left: 4%;
+    background: url('image/3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0px 0px 100px 10px rgb(177, 84, 84);
+}
+.container .last{
+    margin-right: 0%;
+    background: url('image/5.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0px 0px 100px 10px rgb(46, 15, 15);
+} */
+
+/* Class exercise end */
+
+/* ========================================================= */
+
+
+.snakes{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+ } 
+
